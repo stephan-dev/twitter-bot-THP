@@ -1,2 +1,2 @@
 # twitter-bot-THP
-twitter bot test, school project using Rub's twitter gem
+twitter bot test, school project using Ruby's twitter gem
